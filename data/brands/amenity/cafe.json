@@ -6910,18 +6910,18 @@
     },
     {
       "displayName": "奈雪的茶",
-      "id": "nayuki-3300f4",
+      "id": "naisnow-3300f4",
       "locationSet": {"include": ["cn"]},
       "matchNames": ["奈雪", "奈雪の茶"],
       "tags": {
         "amenity": "cafe",
         "brand": "奈雪的茶",
-        "brand:en": "Nayuki",
+        "brand:en": "NaiSnow",
         "brand:wikidata": "Q107351710",
         "brand:zh": "奈雪的茶",
         "cuisine": "bubble_tea",
         "name": "奈雪的茶",
-        "name:en": "Nayuki",
+        "name:en": "NaiSnow",
         "name:zh": "奈雪的茶",
         "takeaway": "yes"
       }
@@ -7028,18 +7028,26 @@
     },
     {
       "displayName": "快乐柠檬",
-      "id": "happylemon-aa349e",
-      "locationSet": {"include": ["cn", "tw"]},
+      "id": "happylemon-823e31",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
       "tags": {
         "amenity": "cafe",
         "brand": "快乐柠檬",
         "brand:en": "Happy Lemon",
         "brand:wikidata": "Q109968422",
         "brand:zh": "快乐柠檬",
+        "brand:zh-Hans": "快乐柠檬",
+        "brand:zh-Hant": "快樂檸檬",
         "cuisine": "bubble_tea",
+        "delivery": "yes",
         "name": "快乐柠檬",
         "name:en": "Happy Lemon",
         "name:zh": "快乐柠檬",
+        "name:zh-Hans": "快乐柠檬",
+        "name:zh-Hant": "快樂檸檬",
         "takeaway": "yes"
       }
     },
@@ -7057,6 +7065,25 @@
         "name": "快可立",
         "name:en": "Quickly",
         "name:zh": "快可立",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "快樂檸檬",
+      "id": "happylemon-7d270d",
+      "locationSet": {"include": ["tw"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "快樂檸檬",
+        "brand:en": "Happy Lemon",
+        "brand:wikidata": "Q109968422",
+        "brand:zh-Hans": "快乐柠檬",
+        "brand:zh-Hant": "快樂檸檬",
+        "cuisine": "bubble_tea",
+        "name": "快樂檸檬",
+        "name:en": "Happy Lemon",
+        "name:zh-Hans": "快乐柠檬",
+        "name:zh-Hant": "快樂檸檬",
         "takeaway": "yes"
       }
     },
@@ -7220,13 +7247,17 @@
       "tags": {
         "amenity": "cafe",
         "brand": "沪上阿姨",
-        "brand:en": "AUNTEA JENNY",
+        "brand:en": "Auntea Jenny",
         "brand:wikidata": "Q108165945",
         "brand:zh": "沪上阿姨",
+        "brand:zh-Hans": "沪上阿姨",
+        "brand:zh-Hant": "滬上阿姨",
         "cuisine": "bubble_tea",
         "name": "沪上阿姨",
-        "name:en": "AUNTEA JENNY",
+        "name:en": "Auntea Jenny",
         "name:zh": "沪上阿姨",
+        "name:zh-Hans": "沪上阿姨",
+        "name:zh-Hant": "滬上阿姨",
         "takeaway": "yes"
       }
     },

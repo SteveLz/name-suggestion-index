@@ -13506,6 +13506,27 @@
       }
     },
     {
+      "displayName": "临榆炸鸡腿",
+      "id": "6f7bab-19ae3c",
+      "locationSet": {
+        "include": ["cn"],
+        "exclude": ["hk", "mo"]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "临榆炸鸡腿",
+        "brand:wikidata": "Q136192743",
+        "brand:zh-Hans": "临榆炸鸡腿",
+        "brand:zh-Hant": "臨榆炸雞腿",
+        "cuisine": "fried_chicken",
+        "delivery": "yes",
+        "name": "临榆炸鸡腿",
+        "name:zh-Hans": "临榆炸鸡腿",
+        "name:zh-Hant": "臨榆炸雞腿",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "丸亀製麺",
       "id": "marugameseimen-f9a382",
       "locationSet": {
